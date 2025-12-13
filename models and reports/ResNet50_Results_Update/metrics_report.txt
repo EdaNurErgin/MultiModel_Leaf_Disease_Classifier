@@ -1,0 +1,17 @@
+Accuracy: 0.862475442043222
+Balanced Accuracy: 0.859391190719464
+MCC: 0.8317751848305929
+Precision: 0.8808147530935141
+Recall: 0.859391190719464
+F1 Score: 0.8623794981317227
+              precision    recall  f1-score   support
+
+     Healthy       0.74      0.98      0.84       105
+      Mosaic       0.96      0.74      0.84        93
+      RedRot       0.84      0.90      0.87       105
+        Rust       0.94      0.87      0.90       104
+      Yellow       0.93      0.80      0.86       102
+
+    accuracy                           0.86       509
+   macro avg       0.88      0.86      0.86       509
+weighted avg       0.88      0.86      0.86       509
